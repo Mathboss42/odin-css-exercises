@@ -1,0 +1,19 @@
+.odds {
+    background-color: rgb(209, 158, 158);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#johnny {
+    color: rgb(0, 102, 255);
+    font-size: 36px;
+}
+
+.odds.cool {
+    font-size: 24px;
+}
+
+#silverhand {
+    background-color: rgb(116, 201, 116);
+    font-size: 24px;
+    font-weight: bold;
+}
