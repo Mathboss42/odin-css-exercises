@@ -1,0 +1,14 @@
+.ramen,
+.takoyaki {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.ramen {
+    color: white;
+    background-color: hsl(180, 0%, 0%);
+}
+
+.takoyaki {
+    background-color: yellow;
+}
